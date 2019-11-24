@@ -4,10 +4,10 @@ include "function.php";
 echo color("red"," ===========================\n");
 echo color("green","| SELAMAT DATANG|\n");
 echo color("green","| AUTO BUAT AKUN GOJEK X AUTO REDEEM VOCHER |\n");
-echo color("green","| github: JANNN-CUK |\n");
-echo color("red","| WHATSAPP :  082292205683|\n");
-echo color("green","| PEMBUAT : JANNN          |\n");
-echo color("green","| Waktu    :".date('[d-m-Y] [H:i:s]')."   |\n";
+echo color("green","| GITHUB: JANNN-CUK |\n");
+echo color("green","| WHATSAPP: 082292205683|\n");
+echo color("green","| PEMBUAT: JANNN          |\n");
+echo color("green","| Waktu:".date('[d-m-Y] [H:i:s]')."   |\n";
 echo color("red"," ===========================\n");
 // function change(){
         $nama = nama();
